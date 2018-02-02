@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872840908670",
+    "firebase_url": "https://moneykeeper2-1ed0a.firebaseio.com",
+    "project_id": "moneykeeper2-1ed0a",
+    "storage_bucket": "moneykeeper2-1ed0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872840908670:android:cecf5a996f97483f",
+        "android_client_info": {
+          "package_name": "com.sosiisonchik.moneykeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872840908670-it93jr2m7g6008sabqocmpkc3oftmess.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sosiisonchik.moneykeeper",
+            "certificate_hash": "5bc97a74f494fc2ffabfc509e63619b11448d406"
+          }
+        },
+        {
+          "client_id": "872840908670-vuc1qd0jq42c587f68m0u2jhcl13is53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGI7JeRsgXgbv_25ohCZI-SW5-RON15hA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872840908670-vuc1qd0jq42c587f68m0u2jhcl13is53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
